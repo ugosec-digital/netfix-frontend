@@ -99,13 +99,13 @@ http://{your-backend-url}:8080
 With your actual backend URL, for example:
 
 ```javascript
-http://192.168.1.10:8080/api
+http://192.168.1.10:8080
 ```
 
 or
 
 ```javascript
-https://your-domain.com/api
+http://your-domain.com
 ```
 
 ---
